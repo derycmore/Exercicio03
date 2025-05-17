@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.linha01, .linha02{
+    display: flex;
+}
+.caixa01{
+    width: 100px;
+    height: 100px;
+    background-color: #000000;
+}
+.caixa02{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(7, 230, 26);
+}
+.caixa03{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
